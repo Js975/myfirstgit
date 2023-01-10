@@ -1,3 +1,5 @@
-hi my first git
+it was my mistakes
 
-my second git
+it is new one
+
+hello world
